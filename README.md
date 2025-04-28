@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 -->
 
 # 👋 Hi, I'm Lina!
 👩🏻‍💻 Information tachnology sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [IT](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Qassim<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+👩🏻‍🎓 Studied [IT]  at the University of Qassim<br/>
 💭 Currently learning about Cybersecurity <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
