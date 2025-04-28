@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Lina!
 👩🏻‍💻 Information tachnology sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [IT](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Qassim<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about Cybersecurity <br/>
 
