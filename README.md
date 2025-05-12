@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Lina !
 👩🏻‍💻 Information tachnology sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [IT]  at the University of Qassim<br/>
-✉️  You can contact me at [Gmail](linaxn4@gmailcome)<br/>
+✉️  You can contact me at [Gmail](linaxn4@gmailcom)<br/>
 🤝 I'm open to collaborating on frontend and Arabization projects<br/>
 💭 Currently learning about Cybersecurity <br/>
 
