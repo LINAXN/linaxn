@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 📧 Reach me at: [linaxn4@gmail.com](mailto:linaxn4@gmail.com)<br/>
 🤝 Open to collaborate on frontend and Arabization projects.<br/>
 🔐 Currently exploring the world of Cybersecurity.<br/>
+.<br/>
+.<br/>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINAXN&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
