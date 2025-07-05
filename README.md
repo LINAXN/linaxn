@@ -21,15 +21,19 @@ Here are some ideas to get you started:
 📧 Reach me at: [linaxn4@gmail.com](mailto:linaxn4@gmail.com)<br/>
 🤝 Open to collaborate on frontend and Arabization projects.<br/>
 🔐 Currently exploring the world of Cybersecurity.<br/>
-.<br/>
-.<br/>
+<br/>
+<br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINAXN&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+<br/>
+<br/><br/>
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=LINAXN&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br/>
+<br/><br/>
+<br/>
 # 💻 Skills
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
