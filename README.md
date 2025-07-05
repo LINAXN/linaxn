@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 -->
+# 👋 Hi, I'm Lina!
 
-# 👋 Hi, I'm Lina !
-👩🏻‍💻 Information tachnology sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [IT]  at the University of Qassim<br/>
-✉️  You can contact me at [Gmail](linaxn4@gmail.com)<br/>
-🤝 I'm open to collaborating on frontend and Arabization projects<br/>
-💭 Currently learning about Cybersecurity <br/>
+💻 I'm passionate about technology and love sharing my journey in IT.<br/>
+🎓 Studied Information Technology at the University of Qassim.<br/>
+📧 Reach me at: [linaxn4@gmail.com](mailto:linaxn4@gmail.com)<br/>
+🤝 Open to collaborate on frontend and Arabization projects.<br/>
+🔐 Currently exploring the world of Cybersecurity.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=LINAXN&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Lina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINAXN&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LINAXN&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💻 Skills
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
