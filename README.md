@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 Studied Information Technology at the University of Qassim.<br/>
 📧 Reach me at: [linaxn4@gmail.com](mailto:linaxn4@gmail.com)<br/>
 🤝 Open to collaborate on frontend and Arabization projects.<br/>
-🔐 Currently exploring the world of Cybersecurity.<br/>
+🔐 Currently exploring the world of SoftWare Testing.<br/>
 <br/>
 <br/>
 
